@@ -1,0 +1,18 @@
+{
+  "name": "opacity.less",
+  "version": "0.0.1",
+  "description": "opacity helper function for less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanfaucett/opacity.less.git"
+  },
+  "style": "src/index.less",
+  "keywords": [
+    "opacity",
+    "opacity.less",
+    "opacity.css"
+  ],
+  "author": "Nathan Faucett",
+  "license": "BSD-2-Clause",
+  "readmeFilename": "README.md"
+}
