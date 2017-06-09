@@ -1,5 +1,5 @@
 {
-  "name": "opacity.less",
+  "name": "@nathanfaucett/opacity.less",
   "version": "0.0.1",
   "description": "opacity helper function for less",
   "repository": {
